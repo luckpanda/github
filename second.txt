@@ -1,0 +1,5 @@
+1.git init
+2.git add first.txt
+3.git commit -m "first commit"
+4.git remote add origin https://github.com/luckpanda/github.git
+5.get push -u origin master
